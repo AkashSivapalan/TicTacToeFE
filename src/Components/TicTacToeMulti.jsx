@@ -31,7 +31,7 @@ function TicTacToeMulti() {
 
 
   useEffect(() => {
-    ws.current = new WebSocket('ws://'+url);
+    ws.current = new WebSocket(url);
 
     ws.current.onopen = () => {
       ws.current.send(JSON.stringify({ type: 'join', room: roomId, playerId }));
