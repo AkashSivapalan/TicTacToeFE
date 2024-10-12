@@ -1,0 +1,56 @@
+.TicTacMBG{
+    background-image: url('../assets/ttt.jpg');
+    background-size: cover;
+    position: relative;
+}
+
+.TicTacMBG h1,h2{
+    color:orange;
+    font-weight: bold;
+}
+
+
+.chat {
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto; /* This centers the chat box */
+    text-align: center; /* Align text and elements inside the chat box */
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .messages {
+    height: 200px;
+    overflow-y: auto;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  #chatInput {
+    width: 80%; /* Takes up 80% of the container width */
+    margin-right: 10px; /* Adds some spacing to the send button */
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+  }
+  
+  button.btn-primary {
+    padding: 10px 20px;
+  }
+
+  .messages {
+    max-height: 300px; /* Set a fixed height for the chat messages */
+    overflow-y: auto; /* Enable vertical scrolling */
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    text-align: left; /* Align messages to the left */
+  }
+  

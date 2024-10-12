@@ -1,0 +1,16 @@
+.homepage {
+    background-image: url('../assets/ttt.jpg'); /* Adjust the path based on your folder structure */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+
+  .title{
+    color:aqua;
+    font-weight: bold;
+  }

@@ -1,0 +1,16 @@
+.board {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;  
+    width: 620px;  
+    margin: 0 auto;
+    background: black;
+  }
+  
+  @media screen and (max-width: 640px) {
+    .board {
+      width: calc(100% - 20px);  
+      gap: 5px; /* Adjust gap for smaller screens */
+    }
+  }
+  

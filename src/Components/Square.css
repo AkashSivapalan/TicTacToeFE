@@ -1,0 +1,21 @@
+.square {
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(137, 247, 255);
+    overflow: hidden;
+  }
+  
+
+  .square img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;  /* Ensures the image covers the square without distortion */
+  }
+  @media screen and (max-width: 640px) {
+    .square {
+      width: calc(33.33vw - 10px);  /* Adjusted for a 3x3 grid with smaller gap */
+      height: calc(33.33vw - 10px);  /* Ensure square aspect ratio */
+    }
+  }
+  
