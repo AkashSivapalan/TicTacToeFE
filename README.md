@@ -27,7 +27,7 @@ Players Screen:  <br/>
  <img src="https://github.com/AkashSivapalan/TicTacToeFE/blob/master/SS/Player2.JPG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br />
 Mobile Screen:  <br/>
-<img src="https://github.com/AkashSivapalan/TicTacToeFE/blob/master/SS/mobile.JPG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://github.com/AkashSivapalan/TicTacToeFE/blob/master/SS/mobile.jpeg?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
  <br /> 
 
 
