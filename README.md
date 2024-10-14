@@ -15,10 +15,11 @@ A multiplayer game room where users from different devices can create and join p
 
 <p align="center">
 Homepage: <br/>
-<img src="https://github.com/AkashSivapalan/TicTacToeFE/tree/blob/master/SS/Homepage.JPG" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="login.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/AkashSivapalan/TicTacToeFE/blob/master/SS/Homepage.JPG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+ <br />
 <br />
-<br />
+ 
 Players Screen:  <br/>
 <img src="https://github.com/AkashSivapalan/TicTacToeFE/tree/blob/master/SS/Player1.JPG" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
  <br /> 
