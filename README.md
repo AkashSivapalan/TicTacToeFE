@@ -1,4 +1,4 @@
-<h1>Project Manager</h1>
+<h1>Tic Tac Toe Game Room</h1>
 
 <b> [Demo](https://dancing-longma-9c3ae2.netlify.app/) </b>  
 
